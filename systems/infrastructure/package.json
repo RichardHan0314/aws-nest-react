@@ -10,7 +10,7 @@
     "lodash.kebabcase": "4.1.1",
     "mocha": "10.8.2",
     "ts-node": "10.9.2",
-    "yaml": "2.6.0"
+    "yaml": "2.6.1"
   },
   "devDependencies": {
     "@babel/cli": "7.25.9",
