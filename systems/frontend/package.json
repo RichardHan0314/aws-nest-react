@@ -30,7 +30,7 @@
   "devDependencies": {
     "@busybox/eslint-config": "5.10.0",
     "@busybox/tsconfig": "1.7.1",
-    "@cypress/react": "5.12.5",
+    "@cypress/react": "9.0.0",
     "@cypress/webpack-dev-server": "1.8.4",
     "@hookform/devtools": "4.1.0",
     "@stylelint/postcss-css-in-js": "0.38.0",
