@@ -28,7 +28,7 @@
     "web-vitals": "2.1.4"
   },
   "devDependencies": {
-    "@busybox/eslint-config": "5.10.0",
+    "@busybox/eslint-config": "2023.7.14",
     "@busybox/tsconfig": "1.7.1",
     "@cypress/react": "5.12.5",
     "@cypress/webpack-dev-server": "1.8.4",

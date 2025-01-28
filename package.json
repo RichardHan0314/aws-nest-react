@@ -5,7 +5,7 @@
   },
   "description": "",
   "devDependencies": {
-    "@busybox/eslint-config": "5.10.0",
+    "@busybox/eslint-config": "2023.7.14",
     "@busybox/prettier-config": "2023.7.14",
     "@commitlint/cli": "19.6.1",
     "@commitlint/config-lerna-scopes": "19.7.0",
